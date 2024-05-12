@@ -1,9 +1,34 @@
-h1{ 
-    color: cornflowerblue;
-    background-color: blueviolet;
+h1 { 
+    color: darkred;
+    background-color:darkgrey;
 }
 
 
-h1{ 
-    color: #5ccbe4;
+h2 { 
+    color: red;
+    background-color: darkgray;
+}
+
+/* article > p { 
+    font-size: 2rem;
+} */
+
+.articl_p { 
+    font-size: 1.5rem;
+}
+
+
+#footer_p {
+    color: rgb(255, 0, 0);
+    background-color: rgb(248, 255, 240);
+}
+
+
+li {
+    font-size: 2rem;
+    background-color: darkgoldenrod;
+}
+
+li:nth-child(2n) {
+    background-color: darkmagenta;
 }
