@@ -10,7 +10,7 @@ h2 {
 }
 
 /* article > p { 
-    font-size: 2rem;
+    font-size: 3rem;
 } */
 
 .articl_p { 
@@ -21,6 +21,7 @@ h2 {
 #footer_p {
     color: rgb(255, 0, 0);
     background-color: rgb(248, 255, 240);
+    font-size: 2rem;
 }
 
 
@@ -31,4 +32,15 @@ li {
 
 li:nth-child(2n) {
     background-color: darkmagenta;
+}
+
+* {
+    margin: 0;
+    padding: 20px;
+}
+
+img {
+    max-width: 50vw;
+    max-height: 25vw;
+
 }
