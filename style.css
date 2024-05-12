@@ -7,14 +7,15 @@ h1 {
 h2 { 
     color: red;
     background-color: darkgray;
+    font-size: 3rem;
 }
 
 /* article > p { 
     font-size: 3rem;
 } */
 
-.articl_p { 
-    font-size: 1.5rem;
+.article_p { 
+    font-size: 4rem;
 }
 
 
@@ -40,7 +41,7 @@ li:nth-child(2n) {
 }
 
 img {
-    max-width: 50vw;
-    max-height: 25vw;
+    max-width: 70vw;
+    max-height: 50vw;
 
 }
